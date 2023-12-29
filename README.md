@@ -11,13 +11,13 @@ Os slides devem ser armazenados na pasta `slides`. Cada um deve ter sua própria
 ```
 slides/
     01/
-        01.png
+        01.jpg
         01.mp3
     02/
-        02.png
+        02.jpg
         02.mp3
     03/
-        03.png
+        03.jpg
         03.mp3
     // e assim por diante
 ```
@@ -32,19 +32,19 @@ O arquivo `index.json` serve como um índice para os slides. Para cada aula, voc
 [
   {
     "slide": "01",
-    "imagem": "slides/01/01.png",
+    "imagem": "slides/01/01.jpg",
     "audio": "slides/01/01.mp3",
     "texto": "01. [Descrição da Aula 01]"
   },
   {
     "slide": "02",
-    "imagem": "slides/02/02.png",
+    "imagem": "slides/02/02.jpg",
     "audio": "slides/02/02.mp3",
     "texto": "02. [Descrição da Aula 02]"
   },
   {
     "slide": "03",
-    "imagem": "slides/03/03.png",
+    "imagem": "slides/03/03.jpg",
     "audio": "slides/03/03.mp3",
     "texto": "03. [Descrição da Aula 03]"
   }

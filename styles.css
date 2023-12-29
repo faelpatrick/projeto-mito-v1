@@ -1,6 +1,6 @@
 :root {
   font-family: Arial, sans-serif;
-  background-image: url("assets/imagens/bg.png");
+  background-image: url("assets/imagens/bg.jpg");
   background-size: auto;
   background-repeat: no-repeat;
   background-position: center;
@@ -48,7 +48,7 @@
 #slide-text-content {
   margin-top: 10px;
   padding: 2px 18px;
-  background: url("assets/imagens/paper.png");
+  background: url("assets/imagens/paper.jpg");
   border-radius: 10px;
 }
 
@@ -62,7 +62,7 @@
 
 @media only screen and (max-width: 1023px) {
   :root {
-    background-image: url("assets/imagens/bgMobile.png");
+    background-image: url("assets/imagens/bgMobile.jpg");
     background-size: 100vw 100vh;
   }
   #content-area {
@@ -79,7 +79,7 @@
   #slide-text-content {
     margin-top: 10px;
     padding: 2px 18px;
-    background: url("assets/imagens/paper.png");
+    background: url("assets/imagens/paper.jpg");
     border-radius: 10px;
   }
 

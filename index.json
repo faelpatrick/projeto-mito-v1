@@ -1,0 +1,20 @@
+[
+  {
+    "slide": "01",
+    "imagem": "01.png",
+    "audio": "01.mp3",
+    "texto": "01.Prometeu roubou fogo dos deuses e o deu à humanidade, simbolizando a iluminação e o progresso."
+  },
+  {
+    "slide": "02",
+    "imagem": "02.png",
+    "audio": "03.mp3",
+    "texto": "02.  Este ato levou a um castigo simbólico por Zeus, marcando um eterno desafio entre o divino e o mortal."
+  },
+  {
+    "slide": "03",
+    "imagem": "03.png",
+    "audio": "03.mp3",
+    "texto": "03.Héracles libertou Prometeu, encerrando seu desafio eterno e simbolizando a superação de obstáculos."
+  }
+]
